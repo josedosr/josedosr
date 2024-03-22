@@ -1,4 +1,4 @@
-# José Dos Reis, Data Scientist 👩🏻‍💻📊
+# José Dos Reis, Python Developer 🐍 & Data Scientist 👩🏻‍💻📊
 
 👋 Hello! I'm Jose, a passionate business administration professional and data enthusiast.
 
